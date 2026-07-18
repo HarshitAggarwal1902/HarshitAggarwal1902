@@ -1,3 +1,7 @@
+ gh repo create HarshitAggarwal1902 --public --clone
+        cd HarshitAggarwal1902
+        mkdir -p scripts data .github/workflows
+
 # 💫 About Me:
 🔭 I’m currently: A B.Tech CSE student specializing in Cybersecurity and developing automated security solutions.<br><br>🎓 Certified Professional: Officially certified in Networking, Linux, Ethical Hacking, and Penetration Testing.<br><br>👯 I’m looking to work as: An AI Pentesting & Penetration Tester, focused on integrating machine learning with advanced exploitation techniques.<br><br>🌱 I’m currently learning: High-level Python automation for security workflows and C programming for system-level vulnerability research.<br><br>💬 Ask me about: Web Pentesing or vulnerability assessment.<br><br>⚡ Mindset: Always hunting for the next vulnerability. If it’s connected, it’s a target.
 
