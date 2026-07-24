@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="250" viewBox="0 0 490 250">
+    <style>
+        .title { font-family: monospace; font-weight: bold; font-size: 16px; fill: #58a6ff; }
+        .text { font-family: monospace; font-size: 14px; fill: #c9d1d9; }
+        .key { fill: #7ee787; font-weight: bold; }
+        .val { fill: #c9d1d9; }
+        .line { opacity: 0; animation: fadeIn 0.5s forwards; }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(5px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+    <rect width="490" height="250" fill="#0d1117" rx="6"/>
+    <text x="20" y="40" class="title">harshit@github ~ $ neofetch</text>
+    <text x="20" y="80" class="text line" style="animation-delay: 0.2s;"><tspan class='key'>Now</tspan>        <tspan class='val'>Learning New Things</tspan></text>
+    <text x="20" y="110" class="text line" style="animation-delay: 0.4s;"><tspan class='key'>Prev</tspan>       <tspan class='val'>Building projects</tspan></text>
+    
+    <rect x="20" y="150" width="15" height="15" fill="#ff7b72" />
+    <rect x="40" y="150" width="15" height="15" fill="#79c0ff" />
+    <rect x="60" y="150" width="15" height="15" fill="#d2a8ff" />
+    <rect x="80" y="150" width="15" height="15" fill="#a5d6ff" />
+</svg>
