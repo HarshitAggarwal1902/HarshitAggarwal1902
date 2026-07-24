@@ -30,7 +30,24 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=HarshitAggarwal1902&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<div align="center">
 
+<h3><code>harshit@github ~ $ ./contributions.sh</code></h3>
+<img src="./output/contrib-heatmap.svg" width="860" />
+
+<br><br>
+
+<h3><code>harshit@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top" width="370">
+       <img src="./output/avi-ascii.svg" width="370" />
+    </td>
+    <td valign="top"><img src="./output/info-card.svg" width="490" /></td>
+  </tr>
+</table>
+
+</div>
 
 ### ✍️ Random Dev Quote
 
