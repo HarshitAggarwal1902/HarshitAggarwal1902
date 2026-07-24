@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="835" height="145" viewBox="0 0 835 145">
+<style>
+.box { animation: slideDown 1s ease-out forwards; opacity: 0; }
+@keyframes slideDown { from { transform: translateY(-10px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+</style>
+<rect width="100%" height="100%" fill="#0d1117" rx="6"/>
+<g transform="translate(20, 20)">
+</g>
+</svg>
