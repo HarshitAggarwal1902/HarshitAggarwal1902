@@ -1,11 +1,23 @@
-# 💫 About Me:
+# ⚡ System Compromise is Inevitable. I Just Find it First.
 
-🔭 I’m currently: A B.Tech CSE student specializing in Cybersecurity and developing automated security solutions.<br><br>🎓 Certified Professional: Officially certified in Networking, Linux, Ethical Hacking, and Penetration Testing.<br><br>👯 I’m looking to work as: An AI Pentesting & Penetration Tester, focused on integrating machine learning with advanced exploitation techniques.<br><br>🌱 I’m currently learning: High-level Python automation for security workflows and C programming for system-level vulnerability research.<br><br>💬 Ask me about: Web Pentesing or vulnerability assessment.<br><br>⚡ Mindset: Always hunting for the next vulnerability. If it’s connected, it’s a target.
+I am a **B.Tech CSE student and Certified Cybersecurity Professional** specializing in advanced penetration testing, offensive security, and the intersection of AI and exploitation. 
 
+My primary focus is on discovering critical vulnerabilities, weaponizing machine learning for automated pentesting, and securing infrastructure before threat actors can exploit it.
 
-# 💻 Tech Stack:
+* 🔭 **Current Directive:** Architecting automated security solutions and specializing in Web Application Penetration Testing.
+* 📜 **Certifications:** Officially certified in **Ethical Hacking, Penetration Testing, Linux Administration, and Networking**.
+* 🎯 **Career Objective:** Seeking roles as an **AI Penetration Tester / Offensive Security Engineer**, integrating machine learning with advanced exploitation workflows.
+* 🌱 **Currently Mastering:** High-level Python for security automation & **C programming** for low-level system vulnerability research and exploit development.
+* 💬 **Let's Talk About:**  Web Sec, Vulnerability Assessments, and AI-driven threat hunting.
+* ⚡ **Mindset:** *"Always hunting for the next vulnerability. If it’s connected, it’s a target."*
+<div align="center">
+<table><tr><td valign="top" width="45%"><img src="./output/avi-ascii.svg" width="100%" /></td><td valign="top" width="55%"><img src="./output/info-card.svg" width="100%" /></td></tr></table>
+</div>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+# ⚙️ Cybersecurity Arsenal:
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)<p><img src="https://img.shields.io/badge/-Cybersecurity-000000?style=for-the-badge&logo=linux&logoColor=white" /><img src="https://img.shields.io/badge/-Ethical%20Hacking-d92d20?style=for-the-badge&logo=hackthebox&logoColor=white" /><img src="https://img.shields.io/badge/-Penetration%20Testing-000000?style=for-the-badge&logo=kali-linux&logoColor=white" /><img src="https://img.shields.io/badge/-Web%20Pentesting-d92d20?style=for-the-badge&logo=owasp&logoColor=white" /><img src="https://img.shields.io/badge/-Networking-000000?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
 
 # 📊 GitHub Stats:
 
@@ -16,43 +28,10 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=HarshitAggarwal1902&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-🏆 GitHub Trophies
----
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshitAggarwal1902&theme=dracula..." />
-</a>
-
-<div align="center">
-<img src="./output/contrib-heatmap.svg" width="860" />
-<br><br>
-<table>
-  <tr>
-    <td valign="top" width="370">
-       <img src="./output/avi-ascii.svg" width="370" />
-    </td>
-    <td valign="top"><img src="./output/info-card.svg" width="490" /></td>
-  </tr>
-</table>
-
-</div>
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=HarshitAggarwal1902&limit=5&theme=darcula&combine_all_yearly_contributions=true)
-
-
-
----
-
-[![](https://komarev.com/ghpvc/?username=HarshitAggarwal1902&icon=7&color=4)](https://visitcount.itsvg.in)
-
-
 
 ![snake gif](https://github.com/HarshitAggarwal1902/HarshitAggarwal1902/blob/output/github-snake-dark.svg)
