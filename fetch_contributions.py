@@ -3,8 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import os
 
-# IMPORTANT: REPLACE THIS WITH YOUR ACTUAL GITHUB USERNAME
-GITHUB_USERNAME = "YOUR_USERNAME_HERE"
+GITHUB_USERNAME = "HarshitAggarwal1902"
 
 def fetch_contributions(username):
     url = f"https://github.com/users/{username}/contributions"
